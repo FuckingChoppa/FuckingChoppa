@@ -1,6 +1,17 @@
-# choppa
-**скиллы:**
+<div align="center">
 
-[![скиллы](https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,tailwind,nestjs,py,mysql,electron,)](https://skillicons.dev)
+# Wassup, I'm Choppa 
 
-you're broke
+*Building modern web and desktop apps.*
+
+---
+
+### Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,nestjs,py,mysql,electron&perline=5)](https://skillicons.dev)
+
+---
+
+ *you're broke* 
+
+</div>

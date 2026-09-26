@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Wassup, I'm Choppa
+# Wassup, I'm Choppa
 
 **Full-stack developer building modern web & desktop applications.**
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 

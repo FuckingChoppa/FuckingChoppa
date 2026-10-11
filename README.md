@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://i.imgur.com/yYrIGnI.png" width="100%" alt="Choppa Developer Banner" />
+  <img src="https://i.imgur.com/NQaDFZe.jpeg" width="100%" alt="Choppa Developer Banner" />
 </p>
 
 # Wassup, I'm Choppa

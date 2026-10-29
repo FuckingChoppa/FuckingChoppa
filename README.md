@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/FuckingChoppa?tab=followers">
-    <img src="https://img.shields.io/github/followers/FuckingChoppa?style=flat-square&logo=github&color=ccf904&logoColor=white&labelColor=161b22" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/FuckingChoppa?style=flat-square&logo=github&color=234D8D&logoColor=white&labelColor=161b22" alt="Followers" />
   </a>
   <a href="https://github.com/FuckingChoppa?tab=repositories">
-    <img src="https://img.shields.io/github/stars/FuckingChoppa?style=flat-square&logo=github&color=ccf904&logoColor=white&labelColor=161b22" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/FuckingChoppa?style=flat-square&logo=github&color=234D8D&logoColor=white&labelColor=161b22" alt="Stars" />
   </a>
 </p>
 
@@ -46,8 +46,8 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuckingChoppa&show_icons=true&bg_color=0d1117&title_color=ccf904&text_color=c9d1d9&icon_color=ccf904&border_color=30363d&rank_icon=percentile" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuckingChoppa&layout=compact&bg_color=0d1117&title_color=ccf904&text_color=c9d1d9&icon_color=ccf904&border_color=30363d" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=FuckingChoppa&show_icons=true&bg_color=0d1117&title_color=234D8D&text_color=c9d1d9&icon_color=234D8D&border_color=30363d&rank_icon=percentile" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FuckingChoppa&layout=compact&bg_color=0d1117&title_color=234D8D&text_color=c9d1d9&icon_color=ccf904&border_color=30363d" height="165" />
 </p>
 
 </div>
